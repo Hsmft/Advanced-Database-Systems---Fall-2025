@@ -4,19 +4,14 @@
 
 
 
-\## Assignments
+## Assignments
 
+* **[Assignment 1: Database Design and Theory](./HW1/ADB-HW1.pdf)**
 
+* **Assignment 2:** (Coming soon)
 
-\* \*\*\[Assignment 1: Database Design and Theory](./HW1/ADB-HW1.pdf)\*\*
+* **Assignment 3:** (Coming soon)
 
+* **Assignment 4:** (Coming soon)
 
-
-\* \*\*Assignment 2:\*\* (Coming soon)
-
-\* \*\*Assignment 3:\*\* (Coming soon)
-
-\* \*\*Assignment 4:\*\* (Coming soon)
-
-
-\* \*\*end\*\*
+* **end**
