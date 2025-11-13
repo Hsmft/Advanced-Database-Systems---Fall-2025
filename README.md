@@ -7,7 +7,7 @@
 ## Assignments
 
 * [**Assignment 1: Database Design and Theory**](./HW1/ADB-HW1.pdf)
-* **\[Assignment 2: Advancedddd SQL Querying (Banking \& Pagila)] (./HW2/ADB-HW2.pdf)**
+* **[Assignment 2: Advanced SQL Querying (Banking & Pagila)](./HW2/ADB-HW2.pdf)**
 * **Assignment 3:** (Coming soon)
 * **Assignment 4:** (Coming soon)
 * **end**
